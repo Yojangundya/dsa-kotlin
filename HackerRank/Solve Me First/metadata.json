@@ -1,0 +1,9 @@
+{
+  "code": "import java.util.*\n\nfun solveMeFirst(a: Int, b: Int): Int {\n    return a + b\n}\n\nfun main(args: Array<String>) {\n    val sc = Scanner(System.`in`)\n\n    val num1 = sc.nextInt()\n    val num2 = sc.nextInt()\n\n    val sum = solveMeFirst(num1, num2)\n\n    println(sum)\n}",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Solve Me First",
+  "submissionDate": "2026-08-10T17:00:08.048Z",
+  "submissionUrl": "https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true"
+}
